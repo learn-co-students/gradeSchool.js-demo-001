@@ -5,12 +5,8 @@ tags: oo, instance variables, interfaces
 
 # Grade School
 
-## Getting Started
+## Instructions
 
-run `npm install`
+You'll be making a school that can add students (you'll have their name and which grade they are in).
 
-## Tests
-
-Run `grunt watch` then edit your files. Grunt will watch for changes. Grunt
-will only run tests that start with `it`. When you finish passing a test,
-remove the `x` from `xit` to convert it to a runnable test.
+Take a look at `school.spec.js` before running `learn`/`learn -b` to get started. 
