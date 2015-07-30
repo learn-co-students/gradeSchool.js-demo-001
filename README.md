@@ -1,7 +1,4 @@
----
-languages: javascript
-tags: oo, instance variables, interfaces
----
+
 
 # Grade School
 
