@@ -26,3 +26,4 @@ Note that all our students only have one name.
 ## Instructions
 
 Take a look at `school.spec.js` before running `learn`/`learn -b` to get started. 
+<a href='https://learn.co/lessons/gradeSchool.js' data-visibility='hidden'>View this lesson on Learn.co</a>
